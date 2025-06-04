@@ -1,5 +1,6 @@
 # Social App
 
+
 ---
 
 This is a simple social media application built with **React** and **React Router**, demonstrating basic routing, state management, and component interaction. Users can view a feed of posts, like or dislike them, and see a summary of their total likes and dislikes on a profile page.
