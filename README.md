@@ -25,6 +25,8 @@ This is a simple social media application built with **React** and **React Route
 
 ---
 
+
+
 ## Installation and Setup
 
 To run this project locally, follow these steps:
