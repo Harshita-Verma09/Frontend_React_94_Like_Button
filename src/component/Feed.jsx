@@ -1,4 +1,4 @@
-// Feed.jsx
+
 import Post from "./Post";
 import { useState } from "react";
 
